@@ -1,1 +1,1 @@
-# pytorch_sentiment_api_positive_or_negative
+# pytorch sentiment api positive or negative
